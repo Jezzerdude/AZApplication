@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AZApplication</string>
+    <string name="first_letter_must_be_uppercase_between_a_z">First letter must be uppercase between A-Z</string>
+    <string name="first_letter_must_be_lowercase_between_a_z">First letter must be lowercase between a-z</string>
+    <string name="first_letter_can_be_upper_or_lowercase">First letter can be upper or lowercase</string>
+    <string name="type_your_input_below">Type your input below:</string>
+    <string name="does_input_start_with_letter">Does input start with letter:</string>
+    <string name="n_a">N/A</string>
+    <string name="run_application">run Application</string>
+
+    <string name="first_letter_in_range">First letter is within expected range</string>
+    <string name="first_letter_not_in_range">First letter is not within expected range</string>
+</resources>
